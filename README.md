@@ -1,16 +1,11 @@
-# hairstylist
+# Flutter UI - Hairstylist
 
-A new Flutter project.
+A clean chef profile screen made with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/4248839-Stylist-App/attachments/970947
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/td_wyIn9b3k
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190205-050250](https://user-images.githubusercontent.com/8137504/52280882-dce51a00-2982-11e9-8382-4fcb556f2fa8.png)
